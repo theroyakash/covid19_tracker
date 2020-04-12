@@ -10,6 +10,6 @@ Neumorphic designed iOS app for tracking realtime Corona Virus Stats in India.
 # UI and Design
 ![Imgur](https://i.imgur.com/dIB04GX.png)
 
-A Neumorphic Button os added below that copies every bit of information displayed on the screen. Conformation message looks like this.
+A Neumorphic Button is added below that copies every bit of information displayed on the screen. Conformation message looks like this.
 
 ![img](https://i.imgur.com/wYGQuh6.png)
